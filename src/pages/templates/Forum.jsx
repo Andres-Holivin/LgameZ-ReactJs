@@ -24,6 +24,9 @@ const Forum=()=>{
                 <ForumItem/>
                 <ForumItem/>                
             </div>
+            <div>
+                hello
+            </div>
         </>
     )
 }
