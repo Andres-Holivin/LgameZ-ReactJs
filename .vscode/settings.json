@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "ec2-54-159-175-113.compute-1.amazonaws.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "database": "d8ag165a0mhoeg",
+            "username": "avzlqjcgocyiwy",
+            "password": "28f06381a58c76cf04d9f77d2188ab921a340fae1d77f43d72751e2f6b22ca5d",
+            "name": "Postgres-heroku"
+        }
+    ]
+}
